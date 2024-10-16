@@ -79,6 +79,7 @@
 ## Testing
 
 Google Colab 환경에서 해당 jupyter notebook을 실행하면 원활하게 작업 가능합니다.
-"""
+
+```
 pip install ortools
-"""
+```
