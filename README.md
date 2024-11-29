@@ -1,4 +1,5 @@
 # 📈 Pipe Production Process Schedule Optimization Using EDA & Data Prediction
+![파이프팀-001](https://github.com/user-attachments/assets/6aac5eed-a806-40ae-b962-8ec92ed0d23b)
 
 ## 🏭 파이프 생산 공정 순서 배열 최적화
 
